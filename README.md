@@ -1,4 +1,4 @@
-# -Calculator-
+# Python Calculator
 Simple Python Calc.
 
 It has 4 actions: +, *, -, /.
